@@ -1,0 +1,193 @@
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 4
+         }
+
+    .material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+    }
+    
+    .main {
+       width: auto;
+       height: auto;
+       color: #f5f9fd;
+       display: flex;
+       flex-direction: row;
+    }
+
+    .right {
+        width: 79%;
+        height: 750px;
+        background-color: #1c203d;
+        display: inline-block;
+        margin-left: -0.3%;
+
+    }
+    .left {
+       width: 20%;
+       height: 750px;
+       background-color: #282b4a;
+       display: inline-block;
+       text-align: center;
+    }
+    .m {
+        font-size: 30px;
+        text-align: center;
+        background-color: #292c4b;
+        height: 60px;
+    }
+    .dash_nav {
+        font-size: 15px;
+        background-color: #1c203d;
+        height: 50px;
+    }
+    .cust {
+        font-size: 15px;
+        background-color: #292c4b;
+        height: 50px;
+    }
+    .pro {
+        font-size: 15px;
+        background-color: #292c4b;
+        height: 50px;
+    }
+    .ord {
+        font-size: 15px;
+        background-color: #292c4b;
+        height: 50px;
+        padding: 0%;
+    }
+    .inv {
+        font-size: 15px;
+        background-color: #292c4b;
+        height: 50px;
+    }
+    .acc {
+        font-size: 15px;
+        background-color: #292c4b;
+        height: 50px;
+    }
+    .task {
+        font-size: 15px;
+        background-color: #292c4b;
+        height: 50px;
+    }
+    .dash_home {
+        font-size: 30px;
+        height: 60px;
+        margin-left: 1.5% ; margin-top: 2%;
+    }
+    .head_home {
+        display: flex;
+        flex-direction: row;
+        height: 60px;
+    }
+    .acc_home {
+        /* display: flex;
+        flex-direction: row; */
+        height: 40px;
+        font-size: 13px;
+    }
+    .home_contant {
+        display: flex;
+        flex-direction: row; 
+    }
+    .box_home {
+        width: 23%;
+        height: 100px;
+        background-color: #282b4a;
+        margin: 1%;
+        margin-top: 5%;
+    }
+
+    .top_sell_main {
+        width: 70%;
+        height: 360px;
+        background-color: #282b4a;
+        margin-top: 4%;
+        margin: 1%;
+
+    }
+
+    .total_sale {
+        width: 30%;
+        height: 360px;
+        background-color: #282b4a;
+        margin-top: 4%;
+        margin: 1%;
+    }
+
+    .top_sell {
+        display: flex;
+        flex-direction: row;
+        margin-top: 2%;
+    }
+
+    .top_sell_pro {
+        color: #f7504b;
+        margin-left: 2%;
+
+    }
+
+    .top_sell_all {
+        color: #f7504b;
+        background-color: #dbdee6;
+        padding: 0%;
+        margin-left: 74%;
+        margin-top: 1%;
+    }
+
+    table , tr {
+        padding: 5%;
+        margin-left: 7%;
+        text-align: left;
+    }
+
+    td , th {
+        padding: 5%;
+        margin-right: 9%;
+        text-align: left;
+        
+        
+    }
+
+    table {
+        border-bottom: #dbdee6;
+    }
+
+    .total_sale {
+        display: flex;
+        flex-direction: row;
+        margin-top: 1%;
+        /* padding-top: 2%; */
+
+    }
+
+    .total_sale_pro {
+        display: flex;
+        flex-direction: row;
+        margin: 1%;
+        margin-left: 5%;
+        margin-top: 5%;
+        color: #f7504b;
+    }
+
+    .total_sale_all {
+        display: flex;
+        flex-direction: row;
+        margin: 1%;
+        margin-left: 60%;
+        margin-top: 6%;
+        color: #f7504b;
+        background-color: #dbdee6;
+        padding: 0%;
+        height: 20px;
+        
+    }
